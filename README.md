@@ -186,7 +186,7 @@ The 3rd layer would handle reading/writing records.
 Developer Notes
 ========
 The project adheres to the google coding convention:
-http://google-styleguide.googlecode.com/svn/trunk/cppguide.xml
+https://google.github.io/styleguide/cppguide.html
 with two notable exceptions. We do not encourage anonymous namespaces and the line
 length is 90 characters.
 
